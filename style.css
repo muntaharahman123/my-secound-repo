@@ -1,1 +1,18 @@
-p{ color: red;}
+body{ font-family: 'Luxurious Roman', cursive;}
+h1{ text-align: justify; color: seagreen;}
+.oranger-color{ color: slateblue;}
+section{ display: flex;}
+.half-width{ width: 50%; 
+   
+}
+.half-width-img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: saddlebrown; padding: 10px 20px; 
+    border-radius: 5px; background-image: linear-gradient( orange,tomato   );
+}
+.top-banner{
+    background-image: url( backgrounf\ banner.jpg  );
+    background-repeat: no-repeat;
+}
